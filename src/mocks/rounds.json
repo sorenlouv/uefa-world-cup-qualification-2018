@@ -1,0 +1,1480 @@
+[
+  [
+    {
+      "homeTeam": "Litauen",
+      "awayTeam": "Slovenien",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "San Marino",
+      "awayTeam": "Aserbajdsjan",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Danmark",
+      "awayTeam": "Armenien",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Slovakiet",
+      "awayTeam": "England",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Kasakhstan",
+      "awayTeam": "Polen",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Rumænien",
+      "awayTeam": "Montenegro",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Tjekkiet",
+      "awayTeam": "Nordirland",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Norge",
+      "awayTeam": "Tyskland",
+      "homeScore": 0,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Malta",
+      "awayTeam": "Skotland",
+      "homeScore": 1,
+      "awayScore": 5
+    },
+    {
+      "homeTeam": "Georgien",
+      "awayTeam": "Østrig",
+      "homeScore": 1,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Wales",
+      "awayTeam": "Moldova",
+      "homeScore": 4,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Serbien",
+      "awayTeam": "Irland",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Spanien",
+      "awayTeam": "Liechtenstein",
+      "homeScore": 8,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Ukraine",
+      "awayTeam": "Island",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Kroatien",
+      "awayTeam": "Tyrkiet",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Finland",
+      "awayTeam": "Kosovo",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Israel",
+      "awayTeam": "Italien",
+      "homeScore": 1,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Albanien",
+      "awayTeam": "Makedonien",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Færøerne",
+      "awayTeam": "Ungarn",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Schweiz",
+      "awayTeam": "Portugal",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Andorra",
+      "awayTeam": "Letland",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Gibraltar",
+      "awayTeam": "Grækenland",
+      "homeScore": 1,
+      "awayScore": 4
+    },
+    {
+      "homeTeam": "Cypern",
+      "awayTeam": "Belgien",
+      "homeScore": 0,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Bulgarien",
+      "awayTeam": "Luxembourg",
+      "homeScore": 4,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Sverige",
+      "awayTeam": "Holland",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Bosnien",
+      "awayTeam": "Estland",
+      "homeScore": 5,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Hviderusland",
+      "awayTeam": "Frankrig",
+      "homeScore": 0,
+      "awayScore": 0
+    }
+  ],
+  [
+    {
+      "homeTeam": "Kosovo",
+      "awayTeam": "Kroatien",
+      "homeScore": 0,
+      "awayScore": 6
+    },
+    {
+      "homeTeam": "Makedonien",
+      "awayTeam": "Israel",
+      "homeScore": 1,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Liechtenstein",
+      "awayTeam": "Albanien",
+      "homeScore": 0,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Irland",
+      "awayTeam": "Georgien",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Moldova",
+      "awayTeam": "Serbien",
+      "homeScore": 0,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Østrig",
+      "awayTeam": "Wales",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Italien",
+      "awayTeam": "Spanien",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Tyrkiet",
+      "awayTeam": "Ukraine",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Island",
+      "awayTeam": "Finland",
+      "homeScore": 3,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Estland",
+      "awayTeam": "Gibraltar",
+      "homeScore": 4,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Grækenland",
+      "awayTeam": "Cypern",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Belgien",
+      "awayTeam": "Bosnien",
+      "homeScore": 4,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Portugal",
+      "awayTeam": "Andorra",
+      "homeScore": 6,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Frankrig",
+      "awayTeam": "Bulgarien",
+      "homeScore": 4,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Luxembourg",
+      "awayTeam": "Sverige",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Holland",
+      "awayTeam": "Hviderusland",
+      "homeScore": 4,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Ungarn",
+      "awayTeam": "Schweiz",
+      "homeScore": 2,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Letland",
+      "awayTeam": "Færøerne",
+      "homeScore": 0,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Armenien",
+      "awayTeam": "Rumænien",
+      "homeScore": 0,
+      "awayScore": 5
+    },
+    {
+      "homeTeam": "Aserbajdsjan",
+      "awayTeam": "Norge",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Montenegro",
+      "awayTeam": "Kasakhstan",
+      "homeScore": 5,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "England",
+      "awayTeam": "Malta",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Nordirland",
+      "awayTeam": "San Marino",
+      "homeScore": 4,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Polen",
+      "awayTeam": "Danmark",
+      "homeScore": 3,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Skotland",
+      "awayTeam": "Litauen",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Tyskland",
+      "awayTeam": "Tjekkiet",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Slovenien",
+      "awayTeam": "Slovakiet",
+      "homeScore": 1,
+      "awayScore": 0
+    }
+  ],
+  [
+    {
+      "homeTeam": "Israel",
+      "awayTeam": "Liechtenstein",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Ukraine",
+      "awayTeam": "Kosovo",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Wales",
+      "awayTeam": "Georgien",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Finland",
+      "awayTeam": "Kroatien",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Island",
+      "awayTeam": "Tyrkiet",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Albanien",
+      "awayTeam": "Spanien",
+      "homeScore": 0,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Serbien",
+      "awayTeam": "Østrig",
+      "homeScore": 3,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Makedonien",
+      "awayTeam": "Italien",
+      "homeScore": 2,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Moldova",
+      "awayTeam": "Irland",
+      "homeScore": 1,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Færøerne",
+      "awayTeam": "Portugal",
+      "homeScore": 0,
+      "awayScore": 6
+    },
+    {
+      "homeTeam": "Hviderusland",
+      "awayTeam": "Luxembourg",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Gibraltar",
+      "awayTeam": "Belgien",
+      "homeScore": 0,
+      "awayScore": 6
+    },
+    {
+      "homeTeam": "Andorra",
+      "awayTeam": "Schweiz",
+      "homeScore": 1,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Bosnien",
+      "awayTeam": "Cypern",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Sverige",
+      "awayTeam": "Bulgarien",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Estland",
+      "awayTeam": "Grækenland",
+      "homeScore": 0,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Holland",
+      "awayTeam": "Frankrig",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Letland",
+      "awayTeam": "Ungarn",
+      "homeScore": 0,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Kasakhstan",
+      "awayTeam": "Rumænien",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Slovakiet",
+      "awayTeam": "Skotland",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Slovenien",
+      "awayTeam": "England",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Polen",
+      "awayTeam": "Armenien",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Danmark",
+      "awayTeam": "Montenegro",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Tjekkiet",
+      "awayTeam": "Aserbajdsjan",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Tyskland",
+      "awayTeam": "Nordirland",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Norge",
+      "awayTeam": "San Marino",
+      "homeScore": 4,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Litauen",
+      "awayTeam": "Malta",
+      "homeScore": 2,
+      "awayScore": 0
+    }
+  ],
+  [
+    {
+      "homeTeam": "Armenien",
+      "awayTeam": "Montenegro",
+      "homeScore": 3,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Danmark",
+      "awayTeam": "Kasakhstan",
+      "homeScore": 4,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "England",
+      "awayTeam": "Skotland",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Malta",
+      "awayTeam": "Slovenien",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Rumænien",
+      "awayTeam": "Polen",
+      "homeScore": 0,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Frankrig",
+      "awayTeam": "Sverige",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Slovakiet",
+      "awayTeam": "Litauen",
+      "homeScore": 4,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "San Marino",
+      "awayTeam": "Tyskland",
+      "homeScore": 0,
+      "awayScore": 8
+    },
+    {
+      "homeTeam": "Nordirland",
+      "awayTeam": "Aserbajdsjan",
+      "homeScore": 4,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Tjekkiet",
+      "awayTeam": "Norge",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Georgien",
+      "awayTeam": "Moldova",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Kroatien",
+      "awayTeam": "Island",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Østrig",
+      "awayTeam": "Irland",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Tyrkiet",
+      "awayTeam": "Kosovo",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Wales",
+      "awayTeam": "Serbien",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Liechtenstein",
+      "awayTeam": "Italien",
+      "homeScore": 0,
+      "awayScore": 4
+    },
+    {
+      "homeTeam": "Albanien",
+      "awayTeam": "Israel",
+      "homeScore": 0,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Ukraine",
+      "awayTeam": "Finland",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Spanien",
+      "awayTeam": "Makedonien",
+      "homeScore": 4,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Cypern",
+      "awayTeam": "Gibraltar",
+      "homeScore": 3,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Ungarn",
+      "awayTeam": "Andorra",
+      "homeScore": 4,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Schweiz",
+      "awayTeam": "Færøerne",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Luxembourg",
+      "awayTeam": "Holland",
+      "homeScore": 1,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Bulgarien",
+      "awayTeam": "Hviderusland",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Belgien",
+      "awayTeam": "Estland",
+      "homeScore": 8,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Grækenland",
+      "awayTeam": "Bosnien",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Portugal",
+      "awayTeam": "Letland",
+      "homeScore": 4,
+      "awayScore": 1
+    }
+  ],
+  [
+    {
+      "homeTeam": "Georgien",
+      "awayTeam": "Serbien",
+      "homeScore": 1,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Tyrkiet",
+      "awayTeam": "Finland",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Spanien",
+      "awayTeam": "Israel",
+      "homeScore": 4,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Østrig",
+      "awayTeam": "Moldova",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Liechtenstein",
+      "awayTeam": "Makedonien",
+      "homeScore": 0,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Irland",
+      "awayTeam": "Wales",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Italien",
+      "awayTeam": "Albanien",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Kosovo",
+      "awayTeam": "Island",
+      "homeScore": 1,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Kroatien",
+      "awayTeam": "Ukraine",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Bosnien",
+      "awayTeam": "Gibraltar",
+      "homeScore": 5,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Schweiz",
+      "awayTeam": "Letland",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Andorra",
+      "awayTeam": "Færøerne",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Sverige",
+      "awayTeam": "Hviderusland",
+      "homeScore": 4,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Cypern",
+      "awayTeam": "Estland",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Bulgarien",
+      "awayTeam": "Holland",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Luxembourg",
+      "awayTeam": "Frankrig",
+      "homeScore": 1,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Portugal",
+      "awayTeam": "Ungarn",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Belgien",
+      "awayTeam": "Grækenland",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "England",
+      "awayTeam": "Litauen",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "San Marino",
+      "awayTeam": "Tjekkiet",
+      "homeScore": 0,
+      "awayScore": 6
+    },
+    {
+      "homeTeam": "Aserbajdsjan",
+      "awayTeam": "Tyskland",
+      "homeScore": 1,
+      "awayScore": 4
+    },
+    {
+      "homeTeam": "Armenien",
+      "awayTeam": "Kasakhstan",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Rumænien",
+      "awayTeam": "Danmark",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Nordirland",
+      "awayTeam": "Norge",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Montenegro",
+      "awayTeam": "Polen",
+      "homeScore": 1,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Malta",
+      "awayTeam": "Slovakiet",
+      "homeScore": 1,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Skotland",
+      "awayTeam": "Slovenien",
+      "homeScore": 1,
+      "awayScore": 0
+    }
+  ],
+  [
+    {
+      "homeTeam": "Hviderusland",
+      "awayTeam": "Bulgarien",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Holland",
+      "awayTeam": "Luxembourg",
+      "homeScore": 5,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Sverige",
+      "awayTeam": "Frankrig",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Bosnien",
+      "awayTeam": "Grækenland",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Andorra",
+      "awayTeam": "Ungarn",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Estland",
+      "awayTeam": "Belgien",
+      "homeScore": 0,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Letland",
+      "awayTeam": "Portugal",
+      "homeScore": 0,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Gibraltar",
+      "awayTeam": "Cypern",
+      "homeScore": 1,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Færøerne",
+      "awayTeam": "Schweiz",
+      "homeScore": 0,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Slovenien",
+      "awayTeam": "Malta",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Skotland",
+      "awayTeam": "England",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Kasakhstan",
+      "awayTeam": "Danmark",
+      "homeScore": 1,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Aserbajdsjan",
+      "awayTeam": "Nordirland",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Norge",
+      "awayTeam": "Tjekkiet",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Litauen",
+      "awayTeam": "Slovakiet",
+      "homeScore": 1,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Tyskland",
+      "awayTeam": "San Marino",
+      "homeScore": 7,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Montenegro",
+      "awayTeam": "Armenien",
+      "homeScore": 4,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Polen",
+      "awayTeam": "Rumænien",
+      "homeScore": 3,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Irland",
+      "awayTeam": "Østrig",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Moldova",
+      "awayTeam": "Georgien",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Finland",
+      "awayTeam": "Ukraine",
+      "homeScore": 1,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Makedonien",
+      "awayTeam": "Spanien",
+      "homeScore": 1,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Kosovo",
+      "awayTeam": "Tyrkiet",
+      "homeScore": 1,
+      "awayScore": 4
+    },
+    {
+      "homeTeam": "Italien",
+      "awayTeam": "Liechtenstein",
+      "homeScore": 5,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Israel",
+      "awayTeam": "Albanien",
+      "homeScore": 0,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Island",
+      "awayTeam": "Kroatien",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Serbien",
+      "awayTeam": "Wales",
+      "homeScore": 1,
+      "awayScore": 1
+    }
+  ],
+  [
+    {
+      "homeTeam": "Schweiz",
+      "awayTeam": "Andorra",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Portugal",
+      "awayTeam": "Færøerne",
+      "homeScore": 5,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Ungarn",
+      "awayTeam": "Letland",
+      "homeScore": 3,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Belgien",
+      "awayTeam": "Gibraltar",
+      "homeScore": 9,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Luxembourg",
+      "awayTeam": "Hviderusland",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Bulgarien",
+      "awayTeam": "Sverige",
+      "homeScore": 3,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Frankrig",
+      "awayTeam": "Holland",
+      "homeScore": 4,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Grækenland",
+      "awayTeam": "Estland",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Cypern",
+      "awayTeam": "Bosnien",
+      "homeScore": 3,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Kasakhstan",
+      "awayTeam": "Montenegro",
+      "homeScore": 0,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Norge",
+      "awayTeam": "Aserbajdsjan",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Tjekkiet",
+      "awayTeam": "Tyskland",
+      "homeScore": 1,
+      "awayScore": 2
+    },
+    {
+      "homeTeam": "Slovakiet",
+      "awayTeam": "Slovenien",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "San Marino",
+      "awayTeam": "Nordirland",
+      "homeScore": 0,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Rumænien",
+      "awayTeam": "Armenien",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Malta",
+      "awayTeam": "England",
+      "homeScore": 0,
+      "awayScore": 4
+    },
+    {
+      "homeTeam": "Litauen",
+      "awayTeam": "Skotland",
+      "homeScore": 0,
+      "awayScore": 3
+    },
+    {
+      "homeTeam": "Danmark",
+      "awayTeam": "Polen",
+      "homeScore": 4,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Albanien",
+      "awayTeam": "Liechtenstein",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Georgien",
+      "awayTeam": "Irland",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Serbien",
+      "awayTeam": "Moldova",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Finland",
+      "awayTeam": "Island",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Spanien",
+      "awayTeam": "Italien",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Israel",
+      "awayTeam": "Makedonien",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "homeTeam": "Ukraine",
+      "awayTeam": "Tyrkiet",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Kroatien",
+      "awayTeam": "Kosovo",
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "homeTeam": "Wales",
+      "awayTeam": "Østrig",
+      "homeScore": 1,
+      "awayScore": 0
+    }
+  ],
+  [
+    {
+      "homeTeam": "Estland",
+      "awayTeam": "Cypern"
+    },
+    {
+      "homeTeam": "Færøerne",
+      "awayTeam": "Andorra"
+    },
+    {
+      "homeTeam": "Holland",
+      "awayTeam": "Bulgarien"
+    },
+    {
+      "homeTeam": "Hviderusland",
+      "awayTeam": "Sverige"
+    },
+    {
+      "homeTeam": "Frankrig",
+      "awayTeam": "Luxembourg"
+    },
+    {
+      "homeTeam": "Gibraltar",
+      "awayTeam": "Bosnien"
+    },
+    {
+      "homeTeam": "Grækenland",
+      "awayTeam": "Belgien"
+    },
+    {
+      "homeTeam": "Letland",
+      "awayTeam": "Schweiz"
+    },
+    {
+      "homeTeam": "Ungarn",
+      "awayTeam": "Portugal"
+    },
+    {
+      "homeTeam": "Armenien",
+      "awayTeam": "Danmark"
+    },
+    {
+      "homeTeam": "Aserbajdsjan",
+      "awayTeam": "San Marino"
+    },
+    {
+      "homeTeam": "Slovenien",
+      "awayTeam": "Litauen"
+    },
+    {
+      "homeTeam": "Skotland",
+      "awayTeam": "Malta"
+    },
+    {
+      "homeTeam": "England",
+      "awayTeam": "Slovakiet"
+    },
+    {
+      "homeTeam": "Polen",
+      "awayTeam": "Kasakhstan"
+    },
+    {
+      "homeTeam": "Nordirland",
+      "awayTeam": "Tjekkiet"
+    },
+    {
+      "homeTeam": "Montenegro",
+      "awayTeam": "Rumænien"
+    },
+    {
+      "homeTeam": "Tyskland",
+      "awayTeam": "Norge"
+    },
+    {
+      "homeTeam": "Kosovo",
+      "awayTeam": "Finland"
+    },
+    {
+      "homeTeam": "Italien",
+      "awayTeam": "Israel"
+    },
+    {
+      "homeTeam": "Tyrkiet",
+      "awayTeam": "Kroatien"
+    },
+    {
+      "homeTeam": "Irland",
+      "awayTeam": "Serbien"
+    },
+    {
+      "homeTeam": "Moldova",
+      "awayTeam": "Wales"
+    },
+    {
+      "homeTeam": "Østrig",
+      "awayTeam": "Georgien"
+    },
+    {
+      "homeTeam": "Island",
+      "awayTeam": "Ukraine"
+    },
+    {
+      "homeTeam": "Liechtenstein",
+      "awayTeam": "Spanien"
+    },
+    {
+      "homeTeam": "Makedonien",
+      "awayTeam": "Albanien"
+    }
+  ],
+  [
+    {
+      "homeTeam": "Aserbajdsjan",
+      "awayTeam": "Tjekkiet"
+    },
+    {
+      "homeTeam": "Armenien",
+      "awayTeam": "Polen"
+    },
+    {
+      "homeTeam": "San Marino",
+      "awayTeam": "Norge"
+    },
+    {
+      "homeTeam": "Rumænien",
+      "awayTeam": "Kasakhstan"
+    },
+    {
+      "homeTeam": "Skotland",
+      "awayTeam": "Slovakiet"
+    },
+    {
+      "homeTeam": "Montenegro",
+      "awayTeam": "Danmark"
+    },
+    {
+      "homeTeam": "Nordirland",
+      "awayTeam": "Tyskland"
+    },
+    {
+      "homeTeam": "England",
+      "awayTeam": "Slovenien"
+    },
+    {
+      "homeTeam": "Malta",
+      "awayTeam": "Litauen"
+    },
+    {
+      "homeTeam": "Georgien",
+      "awayTeam": "Wales"
+    },
+    {
+      "homeTeam": "Liechtenstein",
+      "awayTeam": "Israel"
+    },
+    {
+      "homeTeam": "Italien",
+      "awayTeam": "Makedonien"
+    },
+    {
+      "homeTeam": "Østrig",
+      "awayTeam": "Serbien"
+    },
+    {
+      "homeTeam": "Irland",
+      "awayTeam": "Moldova"
+    },
+    {
+      "homeTeam": "Spanien",
+      "awayTeam": "Albanien"
+    },
+    {
+      "homeTeam": "Tyrkiet",
+      "awayTeam": "Island"
+    },
+    {
+      "homeTeam": "Kroatien",
+      "awayTeam": "Finland"
+    },
+    {
+      "homeTeam": "Kosovo",
+      "awayTeam": "Ukraine"
+    },
+    {
+      "homeTeam": "Sverige",
+      "awayTeam": "Luxembourg"
+    },
+    {
+      "homeTeam": "Gibraltar",
+      "awayTeam": "Estland"
+    },
+    {
+      "homeTeam": "Færøerne",
+      "awayTeam": "Letland"
+    },
+    {
+      "homeTeam": "Bosnien",
+      "awayTeam": "Belgien"
+    },
+    {
+      "homeTeam": "Cypern",
+      "awayTeam": "Grækenland"
+    },
+    {
+      "homeTeam": "Schweiz",
+      "awayTeam": "Ungarn"
+    },
+    {
+      "homeTeam": "Hviderusland",
+      "awayTeam": "Holland"
+    },
+    {
+      "homeTeam": "Bulgarien",
+      "awayTeam": "Frankrig"
+    },
+    {
+      "homeTeam": "Andorra",
+      "awayTeam": "Portugal"
+    }
+  ],
+  [
+    {
+      "homeTeam": "Polen",
+      "awayTeam": "Montenegro"
+    },
+    {
+      "homeTeam": "Kasakhstan",
+      "awayTeam": "Armenien"
+    },
+    {
+      "homeTeam": "Litauen",
+      "awayTeam": "England"
+    },
+    {
+      "homeTeam": "Slovakiet",
+      "awayTeam": "Malta"
+    },
+    {
+      "homeTeam": "Slovenien",
+      "awayTeam": "Skotland"
+    },
+    {
+      "homeTeam": "Danmark",
+      "awayTeam": "Rumænien"
+    },
+    {
+      "homeTeam": "Tjekkiet",
+      "awayTeam": "San Marino"
+    },
+    {
+      "homeTeam": "Norge",
+      "awayTeam": "Nordirland"
+    },
+    {
+      "homeTeam": "Tyskland",
+      "awayTeam": "Aserbajdsjan"
+    },
+    {
+      "homeTeam": "Serbien",
+      "awayTeam": "Georgien"
+    },
+    {
+      "homeTeam": "Ukraine",
+      "awayTeam": "Kroatien"
+    },
+    {
+      "homeTeam": "Finland",
+      "awayTeam": "Tyrkiet"
+    },
+    {
+      "homeTeam": "Moldova",
+      "awayTeam": "Østrig"
+    },
+    {
+      "homeTeam": "Makedonien",
+      "awayTeam": "Liechtenstein"
+    },
+    {
+      "homeTeam": "Israel",
+      "awayTeam": "Spanien"
+    },
+    {
+      "homeTeam": "Island",
+      "awayTeam": "Kosovo"
+    },
+    {
+      "homeTeam": "Wales",
+      "awayTeam": "Irland"
+    },
+    {
+      "homeTeam": "Albanien",
+      "awayTeam": "Italien"
+    },
+    {
+      "homeTeam": "Holland",
+      "awayTeam": "Sverige"
+    },
+    {
+      "homeTeam": "Portugal",
+      "awayTeam": "Schweiz"
+    },
+    {
+      "homeTeam": "Frankrig",
+      "awayTeam": "Hviderusland"
+    },
+    {
+      "homeTeam": "Letland",
+      "awayTeam": "Andorra"
+    },
+    {
+      "homeTeam": "Luxembourg",
+      "awayTeam": "Bulgarien"
+    },
+    {
+      "homeTeam": "Ungarn",
+      "awayTeam": "Færøerne"
+    },
+    {
+      "homeTeam": "Belgien",
+      "awayTeam": "Cypern"
+    },
+    {
+      "homeTeam": "Estland",
+      "awayTeam": "Bosnien"
+    },
+    {
+      "homeTeam": "Grækenland",
+      "awayTeam": "Gibraltar"
+    }
+  ]
+]
