@@ -10,7 +10,7 @@ const TableRow = styled.tr`
       case 1:
         return colors.green;
       case 2:
-        return props.isLowestRankedSecond ? colors.redYellow : colors.yellow;
+        return props.isLowestRunnerUp ? colors.redYellow : colors.yellow;
       case 3:
         return colors.red;
       default:
@@ -24,9 +24,9 @@ const TableRow = styled.tr`
   }
 `;
 
-export default function TeamRow({ team, isLowestRankedSecond }) {
+export default function TeamRow({ team, isLowestRunnerUp }) {
   return (
-    <TableRow pos={team.pos} isLowestRankedSecond={isLowestRankedSecond}>
+    <TableRow pos={team.pos} isLowestRunnerUp={isLowestRunnerUp}>
       <td>
         <img src={team.logo} />
       </td>
@@ -46,5 +46,5 @@ export default function TeamRow({ team, isLowestRankedSecond }) {
 
 TeamRow.propTypes = {
   team: PropTypes.object.isRequired,
-  isLowestRankedSecond: PropTypes.bool.isRequired
+  isLowestRunnerUp: PropTypes.bool.isRequired
 };

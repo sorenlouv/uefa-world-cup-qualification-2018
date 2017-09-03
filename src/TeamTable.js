@@ -9,26 +9,27 @@ const Table = styled.table`
   margin-right: 15px;
 `;
 
-export default function TeamTable({ teams, lowestRankedSecond }) {
+export default function TeamTable({ standings, lowestRunnerUp }) {
   return (
     <Table>
       <thead>
-        <th />
-        <th>Land</th>
-        <th>K</th>
-        <th>V</th>
-        <th>U</th>
-        <th>T</th>
-        <th>M</th>
-        <th>P</th>
-        <th>P2</th>
+        <tr>
+          <th />
+          <th>Land</th>
+          <th>K</th>
+          <th>V</th>
+          <th>U</th>
+          <th>T</th>
+          <th>M</th>
+          <th>P</th>
+        </tr>
       </thead>
       <tbody>
-        {teams.map(team => (
+        {standings.map(team => (
           <TeamRow
             key={team.teamName}
             team={team}
-            isLowestRankedSecond={team.teamName === lowestRankedSecond}
+            isLowestRunnerUp={team.teamName === lowestRunnerUp}
           />
         ))}
       </tbody>
@@ -37,6 +38,6 @@ export default function TeamTable({ teams, lowestRankedSecond }) {
 }
 
 TeamTable.propTypes = {
-  teams: PropTypes.array.isRequired,
-  lowestRankedSecond: PropTypes.string.isRequired
+  standings: PropTypes.array.isRequired,
+  lowestRunnerUp: PropTypes.string.isRequired
 };
