@@ -1,6 +1,7 @@
 {
   "name": "world-cup-qual",
   "version": "0.1.0",
+  "homepage": "https://sqren.github.io/uefa-world-cup-qualification-2018/",
   "private": true,
   "dependencies": {
     "lodash": "^4.17.4",
@@ -10,6 +11,7 @@
     "styled-components": "^2.1.2"
   },
   "scripts": {
+    "deploy": "gh-pages -d build",
     "lint": "prettier ./src/** && eslint ./src",
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -21,6 +23,7 @@
     "eslint-config-prettier": "^2.4.0",
     "eslint-plugin-prettier": "^2.2.0",
     "eslint-plugin-react": "^7.3.0",
+    "gh-pages": "^1.0.0",
     "prettier": "^1.6.1",
     "prop-types": "^15.5.10"
   }
