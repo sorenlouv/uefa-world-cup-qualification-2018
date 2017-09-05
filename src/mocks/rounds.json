@@ -1135,14 +1135,14 @@
       "awayScore": 0
     },
     {
-      "homeTeam": "Kroatien",
-      "awayTeam": "Kosovo",
-      "homeScore": 0,
+      "homeTeam": "Wales",
+      "awayTeam": "Østrig",
+      "homeScore": 1,
       "awayScore": 0
     },
     {
-      "homeTeam": "Wales",
-      "awayTeam": "Østrig",
+      "homeTeam": "Kroatien",
+      "awayTeam": "Kosovo",
       "homeScore": 1,
       "awayScore": 0
     }
@@ -1150,75 +1150,111 @@
   [
     {
       "homeTeam": "Estland",
-      "awayTeam": "Cypern"
+      "awayTeam": "Cypern",
+      "homeScore": 1,
+      "awayScore": 0
     },
     {
       "homeTeam": "Færøerne",
-      "awayTeam": "Andorra"
+      "awayTeam": "Andorra",
+      "homeScore": 1,
+      "awayScore": 0
     },
     {
       "homeTeam": "Holland",
-      "awayTeam": "Bulgarien"
+      "awayTeam": "Bulgarien",
+      "homeScore": 3,
+      "awayScore": 1
     },
     {
       "homeTeam": "Hviderusland",
-      "awayTeam": "Sverige"
+      "awayTeam": "Sverige",
+      "homeScore": 0,
+      "awayScore": 4
     },
     {
       "homeTeam": "Frankrig",
-      "awayTeam": "Luxembourg"
+      "awayTeam": "Luxembourg",
+      "homeScore": 0,
+      "awayScore": 0
     },
     {
       "homeTeam": "Gibraltar",
-      "awayTeam": "Bosnien"
+      "awayTeam": "Bosnien",
+      "homeScore": 0,
+      "awayScore": 4
     },
     {
       "homeTeam": "Grækenland",
-      "awayTeam": "Belgien"
+      "awayTeam": "Belgien",
+      "homeScore": 1,
+      "awayScore": 2
     },
     {
       "homeTeam": "Letland",
-      "awayTeam": "Schweiz"
+      "awayTeam": "Schweiz",
+      "homeScore": 0,
+      "awayScore": 3
     },
     {
       "homeTeam": "Ungarn",
-      "awayTeam": "Portugal"
+      "awayTeam": "Portugal",
+      "homeScore": 0,
+      "awayScore": 1
     },
     {
       "homeTeam": "Armenien",
-      "awayTeam": "Danmark"
+      "awayTeam": "Danmark",
+      "homeScore": 1,
+      "awayScore": 4
     },
     {
       "homeTeam": "Aserbajdsjan",
-      "awayTeam": "San Marino"
+      "awayTeam": "San Marino",
+      "homeScore": 5,
+      "awayScore": 1
     },
     {
       "homeTeam": "Slovenien",
-      "awayTeam": "Litauen"
+      "awayTeam": "Litauen",
+      "homeScore": 4,
+      "awayScore": 0
     },
     {
       "homeTeam": "Skotland",
-      "awayTeam": "Malta"
+      "awayTeam": "Malta",
+      "homeScore": 2,
+      "awayScore": 0
     },
     {
       "homeTeam": "England",
-      "awayTeam": "Slovakiet"
+      "awayTeam": "Slovakiet",
+      "homeScore": 2,
+      "awayScore": 1
     },
     {
       "homeTeam": "Polen",
-      "awayTeam": "Kasakhstan"
+      "awayTeam": "Kasakhstan",
+      "homeScore": 3,
+      "awayScore": 0
     },
     {
       "homeTeam": "Nordirland",
-      "awayTeam": "Tjekkiet"
+      "awayTeam": "Tjekkiet",
+      "homeScore": 2,
+      "awayScore": 0
     },
     {
       "homeTeam": "Montenegro",
-      "awayTeam": "Rumænien"
+      "awayTeam": "Rumænien",
+      "homeScore": 1,
+      "awayScore": 0
     },
     {
       "homeTeam": "Tyskland",
-      "awayTeam": "Norge"
+      "awayTeam": "Norge",
+      "homeScore": 6,
+      "awayScore": 0
     },
     {
       "homeTeam": "Kosovo",

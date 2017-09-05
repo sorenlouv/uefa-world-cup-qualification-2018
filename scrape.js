@@ -1,6 +1,6 @@
 // http://www.bold.dk/fodbold/international/vm/2016-2017/
 
-const json = Array.from(document.querySelectorAll('table.standing'))
+const groups = Array.from(document.querySelectorAll('table.standing'))
   .slice(0, 9)
   .map(table => table.querySelectorAll('tr.data'))
   .map(rows => {
@@ -25,7 +25,7 @@ const json = Array.from(document.querySelectorAll('table.standing'))
     });
   });
 
-Array.from(document.querySelectorAll('.roundlist')).map(round => {
+const rounds = Array.from(document.querySelectorAll('.roundlist')).map(round => {
   return Array.from(round.querySelectorAll('tr'))
     .slice(1)
     .map(match => {
@@ -45,3 +45,6 @@ Array.from(document.querySelectorAll('.roundlist')).map(round => {
       };
     });
 });
+
+copy(groups)
+copy(rounds)
