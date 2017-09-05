@@ -33,7 +33,7 @@ function getTeamDefaults(standings, teamName) {
 export function getStandingsExcludingBottomTeams(groups, rounds) {
   const standings = getStandings(groups);
   const bottomTeams = getBottomTeams(groups);
-  return _.chain(rounds)
+  const a = _.chain(rounds)
     .flatten()
     .filter(round => !_.isNil(round.homeScore))
     .filter(round => {
@@ -50,14 +50,14 @@ export function getStandingsExcludingBottomTeams(groups, rounds) {
       const home = {
         matchesTotal: accHomeTeam.matchesTotal + 1,
         goalsFor: accHomeTeam.goalsFor + homeScore,
-        goalsAgainst: accHomeTeam.goalsFor + awayScore,
+        goalsAgainst: accHomeTeam.goalsAgainst + awayScore,
         goalDiff: accHomeTeam.goalDiff + (homeScore - awayScore)
       };
 
       const away = {
         matchesTotal: accAwayTeam.matchesTotal + 1,
-        goalsFor: accAwayTeam.goalsFor + homeScore,
-        goalsAgainst: accAwayTeam.goalsFor + awayScore,
+        goalsFor: accAwayTeam.goalsFor + awayScore,
+        goalsAgainst: accAwayTeam.goalsAgainst + homeScore,
         goalDiff: accAwayTeam.goalDiff + (awayScore - homeScore)
       };
 
@@ -117,6 +117,8 @@ export function getStandingsExcludingBottomTeams(groups, rounds) {
     })
     .orderBy(['points', 'goalDiff', 'goalsFor'], ['desc', 'desc', 'desc'])
     .value();
+
+  return a;
 }
 
 export function getLowestRunnerUp(groups, rounds) {

@@ -22,6 +22,7 @@ class App extends Component {
       groups,
       rounds
     );
+
     const lowestRunnerUp = getLowestRunnerUp(groups, rounds);
     return (
       <Container>
