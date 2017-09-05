@@ -39,7 +39,7 @@ export default function Legend() {
       </Container>
       <Container>
         <Indicator color={colors.redYellowSmall} />
-        <Text>Laveste to'er</Text>
+        <Text>Laveste toer</Text>
       </Container>
     </div>
   );

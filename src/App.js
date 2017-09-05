@@ -35,11 +35,11 @@ class App extends Component {
 
           <p>
             Alle 9 gruppe vindere <Indicator color={colors.green} />{' '}
-            kvalificerer sig direkte til VM. De bedste 8 to'ere
+            kvalificerer sig direkte til VM. De 8 bedste toere{' '}
             <Indicator color={colors.yellow} /> går videre til play-offs.
             <br />
-            Den lavest rangerede to'er{' '}
-            <Indicator color={colors.redYellowSmall} /> og alle andre
+            Den lavest rangerede toer{' '}
+            <Indicator color={colors.redYellowSmall} /> og alle andre{' '}
             <Indicator color={colors.white} /> ryger ud.
           </p>
         </div>
