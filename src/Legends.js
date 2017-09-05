@@ -23,7 +23,7 @@ export default function Legend() {
     <div>
       <Container>
         <Indicator color={colors.green} />
-        <Text>Gruppe vinner</Text>
+        <Text>Gruppe vinder</Text>
       </Container>
       <Container>
         <Indicator color={colors.yellow} />
