@@ -1258,39 +1258,57 @@
     },
     {
       "homeTeam": "Kosovo",
-      "awayTeam": "Finland"
+      "awayTeam": "Finland",
+      "homeScore": 0,
+      "awayScore": 1
     },
     {
       "homeTeam": "Italien",
-      "awayTeam": "Israel"
+      "awayTeam": "Israel",
+      "homeScore": 1,
+      "awayScore": 0
     },
     {
       "homeTeam": "Tyrkiet",
-      "awayTeam": "Kroatien"
+      "awayTeam": "Kroatien",
+      "homeScore": 1,
+      "awayScore": 0
     },
     {
       "homeTeam": "Irland",
-      "awayTeam": "Serbien"
+      "awayTeam": "Serbien",
+      "homeScore": 0,
+      "awayScore": 1
     },
     {
       "homeTeam": "Moldova",
-      "awayTeam": "Wales"
+      "awayTeam": "Wales",
+      "homeScore": 0,
+      "awayScore": 2
     },
     {
       "homeTeam": "Østrig",
-      "awayTeam": "Georgien"
+      "awayTeam": "Georgien",
+      "homeScore": 1,
+      "awayScore": 1
     },
     {
       "homeTeam": "Island",
-      "awayTeam": "Ukraine"
+      "awayTeam": "Ukraine",
+      "homeScore": 2,
+      "awayScore": 0
     },
     {
       "homeTeam": "Liechtenstein",
-      "awayTeam": "Spanien"
+      "awayTeam": "Spanien",
+      "homeScore": 0,
+      "awayScore": 8
     },
     {
       "homeTeam": "Makedonien",
-      "awayTeam": "Albanien"
+      "awayTeam": "Albanien",
+      "homeScore": 1,
+      "awayScore": 1
     }
   ],
   [
