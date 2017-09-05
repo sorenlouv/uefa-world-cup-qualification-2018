@@ -23,23 +23,23 @@ export default function Legend() {
     <div>
       <Container>
         <Indicator color={colors.green} />
-        <Text>Group winner</Text>
+        <Text>Gruppe vinner</Text>
       </Container>
       <Container>
         <Indicator color={colors.yellow} />
-        <Text>Number 2 in group</Text>
+        <Text>Nummer 2 i gruppen</Text>
       </Container>
       <Container>
         <Indicator color={colors.red} />
-        <Text>Number 3 in group</Text>
+        <Text>Nummer 3 i gruppen</Text>
       </Container>
       <Container>
         <Indicator color={colors.white} />
-        <Text>Number 4 or lower in group</Text>
+        <Text>Nummer 4 eller lavere i gruppen</Text>
       </Container>
       <Container>
         <Indicator color={colors.redYellowSmall} />
-        <Text>Lowest ranked runner-up</Text>
+        <Text>Laveste to'er</Text>
       </Container>
     </div>
   );

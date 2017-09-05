@@ -34,14 +34,13 @@ class App extends Component {
           <Legends />
 
           <p>
-            All 9 group winners <Indicator color={colors.green} /> will proceed
-            directly to the world cup, and the 8 best runners-up{' '}
-            <Indicator color={colors.yellow} /> go into the play-offs.
+            Alle 9 gruppe vindere <Indicator color={colors.green} />{' '}
+            kvalificerer sig direkte til VM. De bedste 8 to'ere
+            <Indicator color={colors.yellow} /> går videre til play-offs.
             <br />
-            The lowest ranked number 2{' '}
-            <Indicator color={colors.redYellowSmall} /> and everybody else{' '}
-            <Indicator color={colors.white} /> will not proceed to the World
-            Cup.
+            Den lavest rangerede to'er{' '}
+            <Indicator color={colors.redYellowSmall} /> og alle andre
+            <Indicator color={colors.white} /> ryger ud.
           </p>
         </div>
       </Container>
